@@ -24,21 +24,6 @@ I build backend systems, APIs, and automation tools with a focus on clean archit
 
 I use Claude Code and OpenAI Codex as engineering tools for repository analysis, implementation, debugging, code review, testing, and workflow automation. I also work with MCP integrations and agent-guided development workflows.
 
-## GitHub Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ieruss&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ieruss&theme=github" />
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ieruss&theme=github" alt="Ruslan's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieruss&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieruss&theme=github" />
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieruss&theme=github" alt="Most used languages by repository" />
-  </picture>
-</div>
-
 ## Contribution Snake
 
 <div align="center">
@@ -54,5 +39,5 @@ I use Claude Code and OpenAI Codex as engineering tools for repository analysis,
 <div align="center">
   <a href="https://t.me/skadiof" title="Telegram"><img height="24" src="https://img.shields.io/badge/-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/roakdhe" title="Instagram"><img height="24" src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/ruslan0" title="LinkedIn"><img height="24" src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ruslan0" title="LinkedIn"><img width="24" height="24" src="./assets/linkedin.svg" alt="LinkedIn" /></a>
 </div>
