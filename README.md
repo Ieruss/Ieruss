@@ -37,7 +37,7 @@ I use Claude Code and OpenAI Codex as engineering tools for repository analysis,
 ## Let's Connect
 
 <div align="center">
-  <a href="https://t.me/skadiof" title="Telegram"><img height="24" src="https://img.shields.io/badge/-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.instagram.com/roakdhe" title="Instagram"><img height="24" src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://t.me/skadiof" title="Telegram"><img width="24" height="24" src="./assets/telegram.svg" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/roakdhe" title="Instagram"><img width="24" height="24" src="./assets/instagram.svg" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/ruslan0" title="LinkedIn"><img width="24" height="24" src="./assets/linkedin.svg" alt="LinkedIn" /></a>
 </div>
