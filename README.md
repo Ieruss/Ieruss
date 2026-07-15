@@ -6,35 +6,7 @@
 
 I build backend systems, APIs, and automation tools with a focus on clean architecture and reliable delivery.
 
-<img src="./assets/terminal.svg" width="760" alt="Animated terminal introduction" />
-
 </div>
-
-## What I'm Focused On
-
-- 🔭 Building scalable backend services and practical developer tools
-- 🤖 Exploring AI integrations, MCP servers, and workflow automation
-- 🧩 Designing maintainable APIs and service-oriented systems
-- 🌱 Improving system design, observability, and DevOps practices
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ieruss/sdukomekshi">SDU Komekshi</a></h3>
-      <p>An asynchronous Telegram assistant with permissions, scheduling, parsing, background jobs, and persistent state.</p>
-      <p><code>Python</code> <code>Aiogram</code> <code>PostgreSQL</code> <code>Redis</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ieruss/football_time">Football Time</a></h3>
-      <p>A football field booking system with time-slot management, an admin interface, and conflict-safe reservations.</p>
-      <p><code>FastAPI</code> <code>SQLite</code> <code>Jinja2</code></p>
-    </td>
-  </tr>
-</table>
-
-> More backend and AI projects are currently being developed in private repositories.
 
 ## Tech Stack
 
