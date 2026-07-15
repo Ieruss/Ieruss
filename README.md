@@ -28,14 +28,14 @@ I use Claude Code and OpenAI Codex as engineering tools for repository analysis,
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ieruss&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ieruss&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ieruss&show_icons=true&hide_border=true&rank_icon=github" alt="Ruslan's GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ieruss&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ieruss&theme=github" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ieruss&theme=github" alt="Ruslan's GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ieruss&layout=compact&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ieruss&layout=compact&hide_border=true&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ieruss&layout=compact&hide_border=true" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieruss&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieruss&theme=github" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieruss&theme=github" alt="Most used languages by repository" />
   </picture>
 </div>
 
